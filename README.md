@@ -12,7 +12,8 @@ In a SOC environment, phishing emails are one of the most frequent initial acces
 - <b>An active email address</b> 
 - <b>Google Header Analyzer</b>
 - <b>IP Lookup Tool</b>
-- <b>URL Scanner</b> 
+- <b>URL Scanner</b>
+- <b>MxToolbox(DKIM Record Lookup)</b> 
 
 <h2>DISCLAIMER!!</h2>
 It's really important to be aware of the "DO NOT'S" when working on this project
